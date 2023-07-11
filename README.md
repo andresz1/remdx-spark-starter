@@ -7,7 +7,7 @@ Create beautiful minimalist presentations with React, MDX and Spark using <a hre
 </p>
 
 <p align="center">
-  <a href="https://buscar-piso-rtf.vercel.app/" target="_blank">Slides<a/>
+  <a href="https://buscar-piso-rtf.vercel.app/" target="_blank">Example<a/>
 </p>
 
 ## Feedback
