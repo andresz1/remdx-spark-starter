@@ -7,15 +7,6 @@ import { Strong } from "./components/mdx/Strong";
 import { UL } from "./components/mdx/UL";
 import { LI } from "./components/mdx/LI";
 import { Anchor } from "./components/mdx/Anchor";
-import { Center } from "./components/ui/Center";
-import { Avatar } from "./components/ui/Avatar";
-import { PersonalCard } from "./components/ui/PersonalCard";
-import { VertexExample } from "./components/examples/VertexExample";
-import { FlatExample } from "./components/examples/FlatExample";
-import { MeshExample } from "./components/examples/MeshExample";
-import { ReactExample } from "./components/examples/ReactExample";
-import { MaterialExample } from "./components/examples/MaterialExample";
-import { LightExample } from "./components/examples/LightExample";
 
 export const Components = {
   h1: H1,
@@ -27,13 +18,4 @@ export const Components = {
   li: LI,
   a: Anchor,
   InlineCode: InlineCode,
-  Center,
-  Avatar,
-  PersonalCard,
-  VertexExample,
-  MeshExample,
-  FlatExample,
-  ReactExample,
-  MaterialExample,
-  LightExample,
 };

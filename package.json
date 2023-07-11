@@ -1,5 +1,5 @@
 {
-  "name": "buscar-piso-rtf",
+  "name": "remdx-spark-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,16 +12,11 @@
   "dependencies": {
     "@nkzw/remdx": "^0.4.0",
     "@nkzw/vite-plugin-remdx": "^0.4.0",
-    "@react-three/drei": "^9.78.1",
-    "@react-three/fiber": "^8.13.4",
-    "@react-three/postprocessing": "^2.14.13",
     "@spark-ui/tailwind-plugins": "^2.13.0",
     "@spark-ui/theme-utils": "^2.17.0",
-    "@types/three": "^0.153.0",
     "clsx": "^1.2.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "three": "^0.154.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",

@@ -6,7 +6,4 @@
   html {
     font-size: 16px !important;
   }
-  canvas {
-    transform-origin: 0 0;
-  }
 }
